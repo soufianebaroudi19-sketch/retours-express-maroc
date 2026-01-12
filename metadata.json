@@ -1,0 +1,7 @@
+{
+  "name": "Retours Express Maroc",
+  "description": "Application de gestion des retours produits (Reverse Logistics) pour les PME marocaines avec interfaces Client et Entreprise.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
